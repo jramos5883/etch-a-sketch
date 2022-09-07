@@ -1,0 +1,12 @@
+/*comment*/
+
+div {
+    height: 25px;
+    width: 25px;
+    border: 2px solid red;
+}
+
+.rowContainer {
+    height: 500px;
+    display: inline-flex;
+}
